@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="title">الخطوط الجويه الكويتيه</string>
+    <string name="welcome">الرجاء ادخال البيانات</string>
+    <string name="name">اسم العميل</string>
+    <string name="civilid">الرقم المدني</string>
+    <string name="destination">الوجهه</string>
+    <string name="traval">سافرر</string>
+    <string name="goodbye">درب السلامه</string>
+
+
+
+    <string name="yourdata">بياناتك</string>
+    <string name="Finish">الخطوط الجويه الكويتيه</string>
+
+
+</resources>
